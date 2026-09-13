@@ -1,0 +1,27 @@
+OK 我花了很大成本才明白
+我的策略Aggressive Condor + Rolls並不是一個完整的策略
+還有一個重要的成分就是risk management
+準確地說是exit strategy
+何時close position
+何時stop loss
+我之前並沒有想好 甚至覺得毫無必要
+其實這是不對的
+而且我遲遲不願主動close position 是我的性格特點使然
+我發現一個人的交易風格就是一個人的性格
+一個什麼樣的人就會是什麼樣的交易風格
+我在生活中 不願面對的事情就會被我屢次拖延 把煩心事能延期一天就延期一天
+麻痹在當下的無憂無慮中 並暗自祈禱煩心事能在未來自動解決
+所有說不出口下不去手的問題都被我carry over到更遠的未來
+就像我的losing positions
+我寧可roll也不想主動close
+而且一旦roll了就不願在中途主動close 只想等到到期日期望一切損失都能消失 問題自動解決
+解決不了就再roll
+這樣是不行的
+一方面長期在ITM的情況下roll是有成本的 是要掏錢的
+二方面這個losing position鎖定了capital 損失了機會成本
+三方面長期在ITM下有被assigned的風險
+有時主動止損 甚至主動放棄全部損失 重新開始 可能是更好的選擇
+
+有幾個rule of thumbs:
+
+
